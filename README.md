@@ -73,7 +73,7 @@ Beberapa temuan utama dari dashboard:
 - **Win rate pada quartal 4** berada pada angka 60,3% sedangkang lost berada pada 39,7%.  
 
 **Rekomendasi:**
-- Mengoptimalkan strategi penjualan untuk agent dengan performa di bawah rata-rata seperti pada Wilburn Farren, Boris Faz, dan Rosie Papadopoulos yang memiliki peringkat terendah pada quartal 4.  
+- Mengoptimalkan strategi penjualan untuk agent dengan performa di bawah rata-rata seperti pada **Wilburn Farren, Boris Faz, dan Rosie Papadopoulos** yang memiliki peringkat terendah pada quartal 4.  
 - Melakukan review pada region **east** yang memiliki win rate rendah pada quartal 4 untuk meningkatkan efektivitas strategi.  
 
 ---
