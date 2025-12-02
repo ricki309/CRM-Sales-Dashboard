@@ -54,13 +54,13 @@ Membangun **dashboard Excel yang interaktif** menggunakan PivotCharts dan Slicer
 ## 📸 Preview Visualisasi
 
 <p align="center">
-  <img src="visuals/opportunities_won.png" alt="Opportunities by Quarter" width="48%">
-  <img src="visuals/won_and_lost.png" alt="Win vs Lost" width="48%">
+  <img src="Visuals/opportunities_won.png" alt="Opportunities by Quarter" width="48%">
+  <img src="Visuals/won_and_lost.png" alt="Win vs Lost" width="48%">
 </p>
 
 <p align="center">
-  <img src="visuals/opportunities_won_by_sales_agent.png" alt="Opportunities by Sales Agent" width="48%">
-  <img src="visuals/CRM_Sales_Dashboard.png" alt="Scorecard Summary" width="48%">
+  <img src="Visuals/opportunities_won_by_sales_agent.png" alt="Opportunities by Sales Agent" width="48%">
+  <img src="Visuals/CRM_Sales_Dashboard.png" alt="Scorecard Summary" width="48%">
 </p>
 
 ---
